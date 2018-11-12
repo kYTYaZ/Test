@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<!-- saved from url=(0409)https://i.alicdn.com/sc-affiliate/sem-remarketing/proxy.56ebf964.html?iframe_delete=true&data=pageName=hotel%20linen;pageCate=Towel%7CSheet%7CBedding%20Set;pageType=supplier-search;pageLanguage=en;ecomm_prodid=;ecomm_pagetype=product;pageCateId=40601;account=CA;categoryIds=dv1rqj7v4gc0;productIds=dl6k056dihhd5g78%2Cdq63ghg2bovu2bsv%2Cdo6uh46f4ohfiu78;pageform=productsearch;pagedevice=PC;isP4p=;status=ready -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Affiliate Remarketing</title>
+</head>
+<body>
+<script type="text/javascript">
+    (function (window,document) {
+        var URL_GOOGLE = "//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033530103/?value=0&label=ksXOCPHc5AQQ99Xp7AM&guid=ON&script=0",
+                URL_FACEBOOK = "//www.facebook.com/tr/?id=1570523743267998&ev=ViewContent&if=false&v=2.0",
+                URL_DBM = "//ad.doubleclick.net/ddm/activity/src=5271221;type=invmedia;cat=sycf4osd;",
+                URL_YAHOO = "//sp.analytics.yahoo.com/spp.pl?a=10001887204233&.yp=438998",
+                URL_TWITER01 = "//analytics.twitter.com/i/adsct?txn_id=nux0y&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0",
+                URL_TWITER02 ="//t.co/i/adsct?txn_id=nux0y&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0";
+        var isHttpsHost = (("https:" == document.location.protocol) ? true : false);
+        var JSONDATA = {};
+
+        //标识各个联盟的piexl是否发出
+        var PIXELBEACON = {
+                google: 0,
+                fb:0,
+                fb_price:0,
+                dbm:0,
+                criteo:0,
+                criteo_24929:0,
+                criteo_price:0,
+                criteo_less:0,
+                adroll_id:0,
+                adroll_page:0,
+                adroll_price:0,
+                error:0,
+                twitter:0,
+                yahoo:0,
+                type:0
+        };
+
+        var Method = {
+            //google data format
+            getGoogleData: function (data,type) {
+                var separator = "&";
+                var key, res = [];
+                if (!data) {
+                    return false;
+                }
+
+                var cateList = data.pageCate.split("|");
+
+                var length = cateList.length;
+
+                //dynamic Remarketing
+                data["dynx_itemid"] = cateList[length - 1] || "";
+                //data["dynx_itemid2"] = cateList[0] || "";
+                data["dynx_itemid2"] = "";
+                data["dynx_pagetype"] = data.pageform || data.pageType;
+                data["dynx_totalvalue"] = 0;
+
+                for (key in data) {
+                    var val = data[key] || "";
+                    res.push(key + "=" + val.replace(/\|/g, ","));
+                }
+
+                var paramsUrl = encodeURIComponent(res.join(";"));
+
+                Util.sendByImg(URL_GOOGLE + "&data=" + paramsUrl, type);
+            },
+            //fb data format
+            getFbData: function (data, type) {
+                if (!data) {
+                    return false;
+                }
+
+                var separator = "&";
+                var fbData = {
+                    "cd[content_ids]": [],
+                    "cd[content_type]": "product",
+                    "cd[pageCate]": "",
+                    "cd[pageName]": "",
+                    "cd[pageLanguage]": "en",
+                    "cd[ecomm_prodid]": "",
+                    "cd[ecomm_pagetype]": "",
+                    "cd[value]": "",
+                    "cd[currency]": ""
+                };
+
+                var originalDataArr = data.pageCate.split("|");
+
+                var strPageCate = [];
+
+                for (var i = 0, l = originalDataArr.length; i < l; i++) {
+                    strPageCate.push('"' + originalDataArr[i] + '"');
+                }
+
+                fbData["cd[content_ids]"] = "[" + strPageCate.toString() + "]";
+
+                for (var key in data) {
+                    fbData["cd[" + key + "]"] = data[key];
+                }
+
+                fbData["cd[content_type]"] = "product";
+
+                var url = Util.toQueryString(fbData, separator);
+
+                Util.sendByImg(URL_FACEBOOK + "&" + url, type);
+            },
+
+            //DBM Floodlight Tag
+            getDbmDate: function (data, type) {
+                if (!data) {
+                    return false;
+                }
+
+                var n = 4, separator = ";";
+
+                var dbmData = {
+                    "u1": "",//叶子类目
+                    "u2": "",//一级类目
+                    "u3": "",//二级类目
+                    "u4": "",//三级类目
+                    "u5": "",//四级类目
+                    "u6": "",//pageName || ""
+                    "u7": "",//pageform || pageType
+                    "u8": "",//pagedevice
+                    "u9": "",//pageLanguage
+                    "u10": ""//productId
+                };
+
+                for (var j = 1; j <= n; j++) {
+                    if (data["CP" + j]) {
+                        dbmData["u" + (10 + j)] = data["CP" + j];
+                    }
+                }
+
+                var cateList = data.pageCate.split("|");
+
+                var length = cateList.length;
+
+                dbmData.u1 = cateList[length - 1];
+
+                for (var i = 0; i < length; i++) {
+                    dbmData["u" + (i + 2)] = cateList[i];
+                }
+
+                dbmData.u6 = data.pageName || "";
+                dbmData.u7 = data.pageform || data.pageType;
+                dbmData.u8 = data.pagedevice || "";
+                dbmData.u9 = data.pageLanguage || "";
+                dbmData.u10 = data.productId || "";
+                dbmData.ord = (new Date()).getTime();
+
+
+                var paramsUrl = Util.toQueryString(dbmData, separator);
+
+                Util.sendByImg(URL_DBM + paramsUrl, type);
+            },
+            /**
+             * 发送Twitter数据
+             * @param data
+             */
+            sendTwitterData:function(type){
+                Util.sendByImg(URL_TWITER01, type);
+                Util.sendByImg(URL_TWITER02, type);
+            },
+            /**
+             * 发送数据
+             * @param data
+             */
+            getUserListData: function (data) {
+                if(!data){
+                    return false;
+                }
+                var pageTypeScene = (data.pageType && data.pageType != "") ? data.pageType : data.pageform;
+                var paramsDBM = data;
+                var paramsFB = data;
+                var price = parseInt(data["price"],10) || 0;
+
+                PIXELBEACON["fb"] = 1;
+                PIXELBEACON["dbm"] = 1;
+
+                paramsDBM["CP1"] = data["CP1"] || "";
+                paramsDBM["CP2"] = data["CP2"] || "";
+                paramsDBM["CP3"] = data["CP3"] || "";
+                paramsDBM["CP4"] = data["CP4"] || "";
+
+                paramsFB["CP1"] = data["CP1"] || "";
+                paramsFB["CP2"] = data["CP2"] || "";
+                paramsFB["CP3"] = data["CP3"] || "";
+                paramsFB["CP4"] = data["CP4"] || "";
+
+                //dbm
+                Method.getDbmDate(paramsDBM, "dbm");
+                //fb
+                Method.getFbData(paramsFB, "fb");
+            }
+        };
+
+        var Util = {
+            getDataFromQuery: function (key) {
+                var arrf, arrs,
+                        query = location.search,
+                        data = query.match(/[&?]data=([^&]+)/i),
+                        objData = {};
+
+                if (data === null) {
+                    return "";
+                }
+
+                arrf = decodeURIComponent(data[1]).split(";");
+
+                for (var i = arrf.length - 1; i >= 0; i--) {
+                    arrs = arrf[i].split("=");
+                    objData[arrs[0]] = arrs[1]
+                }
+
+                return objData;
+            },
+
+            toQueryString: function (params, separator) {
+                var res = [], key, val;
+                separator = separator || "&";
+
+                if (!params) {
+                    return "";
+                }
+
+                for (key in params) {
+                    val = params[key] || "";
+                    res.push(key + "=" + encodeURIComponent(val));
+                }
+
+                return res.join(separator);
+            },
+
+            sendByImg: function (url, type) {
+                if(type){
+                    PIXELBEACON[type] = 1;
+                }
+
+                var t = (new Date()).getTime(),
+                        n = "remarketing_" + t,
+                        img = window[n] = new Image();
+
+                img.onload = img.onerror = function () {
+                    window[n] = null;
+                    this.onload = this.onerror = null;
+                };
+
+                img.src = url + "&_t=" + t;
+            },
+            /**
+             * 判断对象为空
+             * @param O
+             * @returns {boolean}
+            */
+            isEmptyObject: function (obj) {
+                for (var key in obj) {
+                    return false;
+                }
+                return true;
+            },
+            /**
+             * 获取父级的域名
+             * @param O
+             * @returns {string}
+             */
+            getParentUrl: function () {
+                var reg = /^(https|http)?:\/\/(([^\:\/]+\.)?(alibaba|alicdn|activities)\.com)(\:\d+)?/i;
+                return document.referrer.match(reg)[0];
+            }
+        };
+
+        // 当文档加载执行, 给父级来源发送信息。
+        if(window.parent.postMessage){
+            try{
+                var host = Util.getParentUrl();
+
+                window.addEventListener('message', function(e) {
+
+                    if(!e.data ||  e.origin != host){
+                        return false;
+                    }
+                    var data = JSON.parse(e.data);
+
+                    if(!Util.isEmptyObject(data)){
+
+                        if(data.status == "asyn"){
+                            Method.getUserListData(data);
+                        }else{
+                            //核心代码执行
+                            JSONDATA = Util.getDataFromQuery("data");
+
+                            // Google Remarketing
+                            Method.getGoogleData(JSONDATA, "google");
+                            //twitter
+                            Method.sendTwitterData("twitter");
+                            //YAHOO
+                            Util.sendByImg(URL_YAHOO, "yahoo");
+                        }
+
+                    var pixel_beacon = Util.toQueryString(PIXELBEACON,"|");
+
+                        e.source.postMessage('complete:'+ pixel_beacon, host);
+                    }
+                }, false);
+
+                window.parent.postMessage('ready:',host);
+            }catch(e){
+
+            }
+        }
+    })(window,document);
+</script>
+
+
+</body></html>
