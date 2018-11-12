@@ -1,0 +1,10 @@
+{
+  "@odata.context": "https://outlook.office.com/api/v2.0/$metadata#Me/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA%3D')/ChildFolders/$entity",
+  "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAABQ2cK8AAA=')",
+  "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAABQ2cK8AAA=",
+  "DisplayName": "Test001",
+  "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA=",
+  "ChildFolderCount": 0,
+  "UnreadItemCount": 0,
+  "TotalItemCount": 0
+}

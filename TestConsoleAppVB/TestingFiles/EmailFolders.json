@@ -1,0 +1,164 @@
+[
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5-AAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5-AAA=",
+    "DisplayName": "Archive",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5jAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5jAAA=",
+    "DisplayName": "Conversation History",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 1,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 23
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEKAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEKAAA=",
+    "DisplayName": "Deleted Items",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 12,
+    "TotalItemCount": 73
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEPAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEPAAA=",
+    "DisplayName": "Drafts",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA=",
+    "DisplayName": "Inbox",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 2,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 341
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5fAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg5fAAA=",
+    "DisplayName": "Junk Email",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 1
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAELAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAELAAA=",
+    "DisplayName": "Outbox",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofGAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofGAAA=",
+    "DisplayName": "RSS Subscriptions",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEJAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEJAAA=",
+    "DisplayName": "Sent Items",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 1,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 104
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg64AAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg64AAA=",
+    "DisplayName": "Sync Issues",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEIAAA=",
+    "ChildFolderCount": 3,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIoftAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIoftAAA=",
+    "DisplayName": "TempByTesting",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA=",
+    "ChildFolderCount": 2,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 1
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofmAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofmAAA=",
+    "DisplayName": "Testing",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEMAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 7
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofuAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofuAAA=",
+    "DisplayName": "Folder01",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIoftAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofvAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofvAAA=",
+    "DisplayName": "Folder02",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIoftAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofwAAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIofwAAA=",
+    "DisplayName": "FolderInSent",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAAAAAEJAAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg65AAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg65AAA=",
+    "DisplayName": "Conflicts",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg64AAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 1,
+    "TotalItemCount": 1
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg66AAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg66AAA=",
+    "DisplayName": "Local Failures",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg64AAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  },
+  {
+    "@odata.id": "https://outlook.office.com/api/v2.0/Users('9ea44eb6-eb83-4530-bacf-068160acf229@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/MailFolders('AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg67AAA=')",
+    "Id": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg67AAA=",
+    "DisplayName": "Server Failures",
+    "ParentFolderId": "AAMkAGRjMjc5M2FkLTE0OGEtNDU5MS1iNDg2LWYzM2JiOTlhYzdiYQAuAAAAAACJxp9AGaYkT4_qvNP5veS6AQAvdcSH3peHQ5t42wMiVwwjAAACIg64AAA=",
+    "ChildFolderCount": 0,
+    "UnreadItemCount": 0,
+    "TotalItemCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "@odata.context": "https://websansolutions.sharepoint.com/_api/$metadata#Folders",
+  "value": [
+    {
+      "@odata.type": "#SP.Folder",
+      "@odata.id": "https://websansolutions.sharepoint.com/_api/Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test02')",
+      "@odata.editLink": "Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test02')",
+      "Exists": true,
+      "IsWOPIEnabled": false,
+      "ItemCount": 0,
+      "Name": "Test02",
+      "ProgID": null,
+      "ServerRelativeUrl": "/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test02",
+      "TimeCreated": "2018-08-03T16:34:57Z",
+      "TimeLastModified": "2018-08-03T16:34:57Z",
+      "UniqueId": "c295b071-5282-44ed-b34f-55a39078ed38",
+      "WelcomePage": ""
+    },
+    {
+      "@odata.type": "#SP.Folder",
+      "@odata.id": "https://websansolutions.sharepoint.com/_api/Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')",
+      "@odata.editLink": "Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')",
+      "Exists": true,
+      "IsWOPIEnabled": false,
+      "ItemCount": 3,
+      "Name": "Test01",
+      "ProgID": null,
+      "ServerRelativeUrl": "/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01",
+      "TimeCreated": "2018-08-03T15:32:31Z",
+      "TimeLastModified": "2018-08-03T16:31:42Z",
+      "UniqueId": "f690ae1c-edd2-43cf-a465-8057306e92a3",
+      "WelcomePage": ""
+    }
+  ]
+}

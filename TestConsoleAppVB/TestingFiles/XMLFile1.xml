@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Body>
+    <soapenv:Fault>
+      <faultcode>soapenv:Server.userException</faultcode>
+      <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.tagext.sql.QueryTag$DatabaseQueryException : Error Executing Database Query.][java.sql.SQLException : [Macromedia][SQLServer JDBC Driver][SQLServer]The multi-part identifier "tP.Name" could not be bound.][java.sql.SQLException : [Macromedia][SQLServer JDBC Driver][SQLServer]The multi-part identifier "tP.Name" could not be bound.]</faultstring>
+      <detail>
+        <coldfusion.xml.rpc.CFCInvocationException />
+        <ns1:hostname xmlns:ns1="http://xml.apache.org/axis/">CFD364</ns1:hostname>
+      </detail>
+    </soapenv:Fault>
+  </soapenv:Body>
+</soapenv:Envelope>

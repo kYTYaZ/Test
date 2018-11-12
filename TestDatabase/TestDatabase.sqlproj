@@ -71,21 +71,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TestSqlStoredProcedure.vb" />
-    <Compile Include="TestTrigger.vb" />
-    <Compile Include="TestFunction.vb" />
-  </ItemGroup>
-  <ItemGroup>
-    <Build Include="TestProcedure.sql" />
-    <Build Include="TestTable.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="TestDatabase.publish.xml" />
-    <None Include="TestDatabase_1.publish.xml" />
   </ItemGroup>
   <ItemGroup>
     <PreDeploy Include="Script.PreDeployment.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TestDatabase.publish.xml" />
   </ItemGroup>
 </Project>

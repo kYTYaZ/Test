@@ -1,0 +1,15 @@
+{
+  "subject": "Email Subject - 06",
+  "description": "Email Body",
+  "regardingobjectid_contact@odata.bind": "/contacts(9e7edb6a-8c8e-e811-a965-000d3af43d1a)",
+  "email_activity_parties": {
+    {
+      "partyid_contact@odata.bind": "/contacts(9e7edb6a-8c8e-e811-a965-000d3af43d1a)",
+      "participationtypemask": 1
+    },
+    {
+      "partyid_contact@odata.bind": "/contacts(9e7edb6a-8c8e-e811-a965-000d3af43d1a)",
+      "participationtypemask": 2
+    }
+  }
+}

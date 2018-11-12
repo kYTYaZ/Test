@@ -1,0 +1,635 @@
+{
+  "@odata.context": "https://outlook.office.com/api/v2.0/$metadata#Me/Messages",
+  "value": [
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae4AAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1s+\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae4AAA=",
+      "CreatedDateTime": "2018-10-12T14:45:56Z",
+      "LastModifiedDateTime": "2018-10-12T14:45:59Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1s+",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:45:58Z",
+      "SentDateTime": "2018-10-12T14:45:52Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BL0PR06MB424280033BA9D891FCD4263B83E20@BL0PR06MB4242.namprd06.prod.outlook.com>",
+      "Subject": "RE: Issue #82380: Inventory by Lot report (BioQ Pharma Incorporated)",
+      "BodyPreview": "Hi Chris,\r\n\r\nThe error you were getting is a result of a bug that Microsoft is working to resolve with the columns in the Edit in Excel function.  However, you can still get the data that\u2019s needed.  For now, just ignore the error message.\r\n\r\nAs for the Ve",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAAQ4ca9Q9HRCmfCR6Hgf7vU=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:Wingdings}\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Tahoma}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph\r\n\t{margin-top:0cm;\r\n\tmargin-right:0cm;\r\n\tmargin-bottom:0cm;\r\n\tmargin-left:36.0pt;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle20\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle21\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle22\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle24\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\nol\r\n\t{margin-bottom:0cm}\r\nul\r\n\t{margin-bottom:0cm}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\"><span style=\"\">Hi Chris,</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">The error you were getting is a result of a bug that Microsoft is working to resolve with the columns in the Edit in Excel function.&nbsp; However, you can still get the data that’s needed.&nbsp; For now, just ignore the error message.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">As for the Vendor Lot No. field, using the out of the box fields available, you may use the “Description” field in the Lot No. Information Card.&nbsp; Below are steps on how to populate the information.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<ol start=\"1\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoListParagraph\" style=\"margin-left:0cm\"><span style=\"\">In an Item Journal go to Navigate &gt; Line &gt; Lot No. Information Card</span></li></ol>\r\n<p class=\"MsoListParagraph\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><img width=\"1229\" height=\"386\" id=\"_x0000_i1033\" src=\"cid:image008.jpg@01D46218.BCED1C20\" style=\"width:12.802in; height:4.0208in\"><span style=\"\"></span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<ol start=\"2\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoListParagraph\" style=\"margin-left:0cm\"><span style=\"\">Populate the vendor lot number in the “Description” field.&nbsp; The description field is a free text field that isn’t used now, so we can use it to capture the vendor lot number.</span></li></ol>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><img width=\"1405\" height=\"490\" id=\"_x0000_i1032\" src=\"cid:image010.jpg@01D46218.BCED1C20\" style=\"width:14.6354in; height:5.1041in\"><span style=\"\"></span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<ol start=\"3\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoListParagraph\" style=\"margin-left:0cm\"><span style=\"\">If we the Description field, the report you can use to see the information is using a Config Package.&nbsp; I created one called “LOTINFO” and it’s linked to the Lot No. Card Information table.&nbsp;\r\n You can export the package to see the data. </span></li></ol>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><img width=\"619\" height=\"556\" id=\"_x0000_i1031\" src=\"cid:image012.jpg@01D46218.BCED1C20\" style=\"width:6.4479in; height:5.7916in\"><span style=\"\"></span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">The above is using the out of the box fields.&nbsp; However, if it doesn’t work for you, we can do something a little more customized.&nbsp; Just note that for this particular field, it won’t be just simple field to add as we’ll need\r\n to add it the item master window and all the transaction windows (i.e. Purchase Order, Purchase Invoice, Sales Order, Sales Invoice, and Production Orders); plus, we’ll need to add logic to carry the information from window to window and page to page.&nbsp; Lastly,\r\n for any custom wok we will need to do it via a support plan.&nbsp; If you do decide a custom field is needed, then we can scope out the exact requirements.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Thanks</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Katrina&nbsp; </span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Vasilas &lt;vasilas@bioqpharma.com&gt;\r\n<br>\r\n<b>Sent:</b> October 11, 2018 2:04 PM<br>\r\n<b>To:</b> Katrina She &lt;Katrina.She@websan.com&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;support@websan.com&gt;; Abhi Patel &lt;abhi.patel@websan.com&gt;<br>\r\n<b>Subject:</b> RE: Issue #82380: Inventory by Lot report (BioQ Pharma Incorporated)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Hi Katrina,</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Thank you, I was able to follow the instructions below and it all seemed to work. I did receive an error (attached), but it didn’t seem to trip me up on anything else.</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">If there is no assigned “Vendor Lot No.” field, is there another field we could use for this info? Please let me know if you have an ideas about this.</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Thanks</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Chris</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Chris Vasilas</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Operations Director</span><span lang=\"EN-US\" style=\"font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">BioQ Pharma Incorporated</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Phone:&nbsp;(415) 889-7685</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">International:&nbsp;&#43;1 415 889 7685</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"><a href=\"mailto:vasilas@bioqpharma.com\"><span style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">vasilas@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\">&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:blue\"><br>\r\n</span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">This email and any attached file is intended only for the person(s) or the entity to which it is addressed and may contain information that is privileged, confidential\r\n or otherwise protected from disclosure. Dissemination, distribution or copying of this email or the information herein by anyone other than the intended recipient, or an employee or&nbsp;agent responsible for delivering the message to the intended recipient, is\r\n prohibited and may be unlawful. If you have received this email in&nbsp;error, please immediately notify sender by calling 415.889.7685&nbsp;or email to&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:#1F497D\"><a href=\"mailto:vasilas@bioqpharma.com\"><span style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">vasilas@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">&nbsp;with\r\n a copy to&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:#1F497D\"><a href=\"mailto:admin@bioqpharma.com\"><span style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">admin@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">.\r\n BioQuiddity Incorporated has changed its name to BioQ Pharma.</span><span lang=\"EN-US\"></span></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 10:45 AM<br>\r\n<b>To:</b> Vasilas &lt;<a href=\"mailto:vasilas@bioqpharma.com\">vasilas@bioqpharma.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82380: Inventory by Lot report (BioQ Pharma Incorporated)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\">Hi Chris, </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Please see my notes below:</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"1\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Edit in Excel </b></li></ol>\r\n<p class=\"MsoListParagraph\">When you open the Excel worksheet, click on “Enable Editing”.&nbsp; This will ask you to populate your login information; it will be your O365 login.&nbsp; Then the worksheet will populate the data.&nbsp;\r\n</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"907\" height=\"269\" id=\"_x0000_i1025\" src=\"cid:image001.jpg@01D46217.8EF50860\" style=\"width:9.4479in; height:2.802in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"2\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Add Lot Number Column</b></li></ol>\r\n<p class=\"MsoListParagraph\">To add the Lot Number column, go to the Gear icon and click on Personalize.&nbsp; Then click on More and “&#43; Field”.&nbsp;\r\n</p>\r\n<p class=\"MsoListParagraph\">This will open up the list of fields you can add to the page.&nbsp; Find the field “Lot No.” and drag it onto the page.\r\n</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"1360\" height=\"286\" id=\"_x0000_i1026\" src=\"cid:image002.jpg@01D46217.8EF50860\" style=\"width:14.1666in; height:2.9791in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"1045\" height=\"364\" id=\"_x0000_i1027\" src=\"cid:image003.jpg@01D46217.8EF50860\" style=\"width:10.8854in; height:3.7916in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"3\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Filtering Report</b></li></ol>\r\n<p class=\"MsoListParagraph\">Using the Edit in Excel report, filter on the “Remaining Quantity” column and then sort or filter on the Lot No. column.&nbsp; This will then filter on only the remaining quantities with lots.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"4\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Item Setup</b></li></ol>\r\n<p class=\"MsoListParagraph\">In the TEST company, all the items that do not have a transaction attached have been updated to be Lot tracked.&nbsp; All the items in the PROD company will be updated to be lot tracked.&nbsp;\r\n</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"5\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Vendor Item Number</b></li></ol>\r\n<p class=\"MsoListParagraph\">There isn’t a Vendor Lot Number field. </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Thanks</p>\r\n<p class=\"MsoNormal\">Katrina</p>\r\n<p class=\"MsoListParagraph\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Vasilas &lt;<a href=\"mailto:vasilas@bioqpharma.com\">vasilas@bioqpharma.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> October 11, 2018 1:25 PM<br>\r\n<b>To:</b> Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82380: Inventory by Lot report (BioQ Pharma Incorporated)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Hi Katrina,</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Thanks for the info. A few questions/comments:</span></p>\r\n<ul type=\"disc\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\">When I try to edit in Excel on Item Ledger Entries, the excel file is blank. Is there something else I need to select before clicking “Edit in Excel”?</span></li><li class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\">How do I add lot number column?</span></li><li class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\">This report shows all ledger entries, do I just look at lot numbers and remaining quantity or how to I filter out other entries so that I just see one line item per lot and location/quantity?</span></li></ul>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Are the items now set up to all be lot controlled? I just was thinking and some subcontractors assign their own lot number. Is there a field for “Vendor Lot No.” similar to a separate field for Vendor Item Number?</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Thanks</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Chris</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Chris Vasilas</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Operations Director</span><span lang=\"EN-US\" style=\"font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">BioQ Pharma Incorporated</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">Phone:&nbsp;(415) 889-7685</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#3C5DAB\">International:&nbsp;&#43;1 415 889 7685</span><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\"><a href=\"mailto:vasilas@bioqpharma.com\"><span style=\"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">vasilas@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,serif\">&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:black\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size:8.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:blue\"><br>\r\n</span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">This email and any attached file is intended only for the person(s) or the entity to which it is addressed and may contain information that is privileged, confidential\r\n or otherwise protected from disclosure. Dissemination, distribution or copying of this email or the information herein by anyone other than the intended recipient, or an employee or&nbsp;agent responsible for delivering the message to the intended recipient, is\r\n prohibited and may be unlawful. If you have received this email in&nbsp;error, please immediately notify sender by calling 415.889.7685&nbsp;or email to&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:#1F497D\"><a href=\"mailto:vasilas@bioqpharma.com\"><span style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">vasilas@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">&nbsp;with\r\n a copy to&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt; font-family:&quot;Tahoma&quot;,sans-serif; color:#1F497D\"><a href=\"mailto:admin@bioqpharma.com\"><span style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:blue\">admin@bioqpharma.com</span></a></span><span lang=\"EN-US\" style=\"font-size:7.5pt; font-family:&quot;Arial&quot;,sans-serif; color:red\">.\r\n BioQuiddity Incorporated has changed its name to BioQ Pharma.</span><span lang=\"EN-US\"></span></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 7:53 AM<br>\r\n<b>To:</b> Vasilas &lt;<a href=\"mailto:vasilas@bioqpharma.com\">vasilas@bioqpharma.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82380: Inventory by Lot report (BioQ Pharma Incorporated)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\">Hi Chris,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">For the item lot tracking reports, below are the ones you can use:</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"1\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Item Tracing </b></li></ol>\r\n<ul type=\"disc\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"margin-left:36.0pt\">Search for “Item Tracing”</li><li class=\"MsoNormal\" style=\"margin-left:36.0pt\">Select the field filters</li><li class=\"MsoNormal\" style=\"margin-left:36.0pt\">Go to Process &gt; Trace</li><li class=\"MsoNormal\" style=\"margin-left:36.0pt\">This view allows you to find certain lots and will show the quantities.&nbsp;\r\n</li></ul>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"1247\" height=\"394\" id=\"Picture_x0020_2\" src=\"cid:image004.jpg@01D46217.8EF50860\" style=\"width:12.9895in; height:4.1041in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<ol start=\"2\" type=\"1\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"\"><b>Item Ledger Entries</b></li></ol>\r\n<ul type=\"disc\" style=\"margin-top:0cm\">\r\n<li class=\"MsoNormal\" style=\"margin-left:36.0pt\">If you want a report that lists the lots, you may use the “Item Ledger Entries” view.&nbsp;\r\n</li><li class=\"MsoNormal\" style=\"margin-left:36.0pt\">Add in the column “Lot No.” </li><li class=\"MsoNormal\" style=\"margin-left:36.0pt\">Or Click on “Edit in Excel” to export the data into Excel</li></ul>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"1398\" height=\"354\" id=\"Picture_x0020_3\" src=\"cid:image005.jpg@01D46217.8EF50860\" style=\"width:14.5625in; height:3.6875in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Thanks, </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">______________________</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span lang=\"EN-US\" style=\"font-size:16.0pt; color:#212121\">Katrina She</span></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:black\">&nbsp;&nbsp;</span><span lang=\"EN-US\" style=\"color:#212121\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">Project Manager | WebSan Solutions Inc. |\r\n</span><span lang=\"EN-US\" style=\"color:black\"><a href=\"http://www.websan.com/\"><span style=\"color:black\">www.websan.com</span></a></span><span lang=\"EN-US\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\">Office (416) 499-1235 x 211 | DID: (647) 776-9961|Fax (416) 499-6889</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:black\"><a href=\"mailto:katrina.she@websan.com\">katrina.she@websan.com</a></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><b><i><span lang=\"EN-US\"><img border=\"0\" width=\"575\" height=\"139\" id=\"Picture_x0020_1\" src=\"cid:image006.png@01D46217.8EF50860\" alt=\"MicrosoftSignature-Final\" style=\"width:5.9895in; height:1.4479in\"></span></i></b></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">This email and any attached file is intended only for the person(s) or the entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination,\r\n distribution or copying of this email or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited and may be unlawful. If you have received this\r\n email in error, please immediately notify sender by calling 415.336.6496 and email to\r\n<a href=\"mailto:admin@bioqpharma.com\">admin@bioqpharma.com</a>. </span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">This email and any attached file is intended only for the person(s) or the entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination,\r\n distribution or copying of this email or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited and may be unlawful. If you have received this\r\n email in error, please immediately notify sender by calling 415.336.6496 and email to\r\n<a href=\"mailto:admin@bioqpharma.com\">admin@bioqpharma.com</a>. </span></p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Katrina She",
+          "Address": "Katrina.She@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Katrina She",
+          "Address": "Katrina.She@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Vasilas",
+            "Address": "vasilas@bioqpharma.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Abhi Patel",
+            "Address": "abhi.patel@websan.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae3AAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1s4\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae3AAA=",
+      "CreatedDateTime": "2018-10-12T14:44:54Z",
+      "LastModifiedDateTime": "2018-10-12T14:44:55Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1s4",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:44:54Z",
+      "SentDateTime": "2018-10-12T14:44:51Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BN6PR06MB328439CDA97008CAD89BE69FF5E20@BN6PR06MB3284.namprd06.prod.outlook.com>",
+      "Subject": "RE: Issue #81899: Recurring Malvern Issue (Stanley E. Smith)",
+      "BodyPreview": "Hi Derek,\r\n\r\nPreviously we were seeing an average of about 1 batch having errors every 2 hours or so.  Since the last update (mid-day yesterday) there have been 0 errors (for over 11,000 record inserts/updates synchronized in that time)\r\n\r\nWe will continu",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAGVVK1DN20uarUtKpEvw0i0=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\nspan.EmailStyle17\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-family:\"Calibri\",sans-serif}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\">Hi Derek, </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Previously we were seeing an average of about 1 batch having errors every 2 hours or so.&nbsp; Since the last update (mid-day yesterday) there have been 0 errors (for over 11,000 record inserts/updates synchronized in that time)</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">We will continue to monitor for the near future, but everything is looking good right now.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">______________________</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span lang=\"EN-US\" style=\"font-size:16.0pt; color:#212121\">Matt Locke</span></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">Lead Application Developer | WebSan Solutions Inc. |\r\n</span><span lang=\"EN-US\" style=\"color:black\"><a href=\"http://www.websan.com\"><span style=\"color:black\">www.websan.com</span></a></span><span lang=\"EN-US\" style=\"\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"\">Office (416) 499-1235 x\r\n<b>218</b> | DID: (647) 776-9968|Fax (416) 499-6889</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:black\"><a href=\"mailto:matt.locke@websan.com\"><span style=\"color:#0563C1\">matt.locke@websan.com</span></a></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\" style=\"\">SILVER Certified Microsoft Enterprise Resource Planning Partner</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\" style=\"\">2015 Microsoft Dynamics President\u2019s Club</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\" style=\"\">2016 Profit 500 Member</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\" style=\"\">WINNER - 2017 Canada\u2019s 50 Best Managed IT Companies</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\" style=\"\">WINNER - 2017 Microsoft Modern Marketing Innovation Award Winner</span></i></b></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Matt Locke",
+          "Address": "Matt.Locke@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Matt Locke",
+          "Address": "Matt.Locke@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "'derek@stanleysmithco.com'",
+            "Address": "derek@stanleysmithco.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Adam Macintosh",
+            "Address": "Adam.Macintosh@websan.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae2AAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sw\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae2AAA=",
+      "CreatedDateTime": "2018-10-12T14:40:05Z",
+      "LastModifiedDateTime": "2018-10-12T14:40:06Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sw",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:40:06Z",
+      "SentDateTime": "2018-10-12T14:40:01Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<28ca8c7f-f0e0-4617-b2de-67e90e884b70@MX1.WEBSAN.COM>",
+      "Subject": "*COPY* Issue #82305, closed: ILoan PMT eRec - Did not run (Cash4You)",
+      "BodyPreview": "*===* Email copy generated by issue Email Distribution List.\r\n\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.\r\n\r\nhttps://form.jotformpro.com/7232595827",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQANfgpjdmZg5DiglnIXNgvcQ=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=utf-8\">\r\n<style type=\"text/css\">\r\n<!--\r\nbody\r\n\t{font-family:Verdana}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n*===* Email copy generated by issue Email Distribution List.<br>\r\n<br>\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.<br>\r\n<br>\r\nhttps://form.jotformpro.com/72325958271967??ticketNumber=82305<br>\r\n<br>\r\nThe following Issue was closed in WebSan Support:<br>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>Issue #:</td>\r\n<td>82305</td>\r\n</tr>\r\n<tr>\r\n<td>Subject:</td>\r\n<td>ILoan PMT eRec - Did not run</td>\r\n</tr>\r\n<tr>\r\n<td>Status:</td>\r\n<td>Closed </td>\r\n</tr>\r\n<tr>\r\n<td>Issue Type:</td>\r\n<td>GP</td>\r\n</tr>\r\n<tr>\r\n<td>Priority:</td>\r\n<td>Medium</td>\r\n</tr>\r\n<tr>\r\n<td>Severity:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Project:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Organization:</td>\r\n<td>Cash4You</td>\r\n</tr>\r\n<tr>\r\n<td>Submitted By:</td>\r\n<td>Nicole Lamb on 09-Oct-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Assigned To:</td>\r\n<td>Neal Santin on 09-Oct-2018 (416) 499-1235 x208</td>\r\n</tr>\r\n<tr>\r\n<td>Next Action:</td>\r\n<td>Thomas Jackson on 09-Oct-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Closed By: </td>\r\n<td>Thomas Jackson on 12-Oct-2018 </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<br>\r\n<b>Solution:</b>\r\n<hr>\r\nProcess run as requested.<br>\r\n<br>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        }
+      ],
+      "CcRecipients": [],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae1AAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1su\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae1AAA=",
+      "CreatedDateTime": "2018-10-12T14:36:57Z",
+      "LastModifiedDateTime": "2018-10-12T14:36:58Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1su",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:36:57Z",
+      "SentDateTime": "2018-10-12T14:36:49Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<CY4PR11MB1415E5DBB9BA9300C9244821CDE20@CY4PR11MB1415.namprd11.prod.outlook.com>",
+      "Subject": "RE: Issue #81863: Update Invoice (K and K Recycling)",
+      "BodyPreview": "Hi Divya,\r\n\r\nFrom what I understand, the tax is auto generated once the sale is verified in the system based on the delivery address of the shipment. For every delivery address (destination location) in CRM, we link it to a province in CRM that must have ",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAKR3tpxNiUavi39hfeNzciI=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=Windows-1252\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.msonormal00, li.msonormal00, div.msonormal00\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.msochpdefault, li.msochpdefault, div.msochpdefault\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:10.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.emailstyle18\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.emailstyle19\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle22\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle23\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle24\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle25\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle26\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle27\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle28\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:#1F497D}\r\nspan.EmailStyle29\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle30\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle31\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle32\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle33\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:#1F497D}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-US\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">Hi Divya, </span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">From what I understand, the tax is auto generated once the sale is verified in the system based on the delivery address of the shipment. For every delivery address (destination location) in CRM, we link it to\r\n a province in CRM that must have a tax value associated with it. I hope this helps!\r\n</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">Danielle</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b>From:</b> Divya Pal [mailto:divya.pal@websan.com] <br>\r\n<b>Sent:</b> October-12-18 10:34 AM<br>\r\n<b>To:</b> Ken Sweeney &lt;ksweeney@kkrecycling.ca&gt;; Danielle Morgan &lt;dmorgan@titantubeinc.com&gt;; Wayne Wang &lt;wwang@titantubeinc.com&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;support@websan.com&gt;; Renee Rouleau &lt;rrouleau@titantubeinc.com&gt;<br>\r\n<b>Subject:</b> RE: Issue #81863: Update Invoice (K and K Recycling)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Hi Ken, </span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">I am waiting for further information on where tax is entered or where you would select a specific tax rate per invoice. A screenshot of the window and the path should be enough. Although, if you\u2019re only looking for GST\r\n and QST tax amounts I can just add a custom calculation to the invoice instead. My only concern with that is if there were a sale using a different tax rate (that is not GST or QST) it wouldn\u2019t be captured on the invoice with a custom calculation.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Just need confirmation on either going the custom calculation route or pulling values from CRM itself.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Thanks, </span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:#212121\">______________________</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span lang=\"EN-CA\" style=\"font-size:16.0pt; color:#212121\">Divya Pal&nbsp;</span></b><span style=\"font-size:12.0pt; color:black\">&nbsp;</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:#212121\">BI Specialist | WebSan Solutions Inc. |&nbsp;</span><span lang=\"EN-CA\"><a href=\"http://www.websan.com/\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">www.websan.com</span></a></span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:black\">Office (416) 499-1235 x 237 | DID: (647) 776-0611&nbsp;</span><span style=\"color:black\">|Fax (416) 499-6889</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"><a href=\"mailto:divya.pal@websan.com\">divya.pal@websan.com</a></span></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b>From:</b> Ken Sweeney &lt;<a href=\"mailto:ksweeney@kkrecycling.ca\">ksweeney@kkrecycling.ca</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 3:30 PM<br>\r\n<b>To:</b> Divya Pal &lt;<a href=\"mailto:divya.pal@websan.com\">divya.pal@websan.com</a>&gt;; Danielle Morgan &lt;<a href=\"mailto:dmorgan@titantubeinc.com\">dmorgan@titantubeinc.com</a>&gt;; Wayne Wang &lt;<a href=\"mailto:wwang@titantubeinc.com\">wwang@titantubeinc.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Renee Rouleau &lt;<a href=\"mailto:rrouleau@titantubeinc.com\">rrouleau@titantubeinc.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #81863: Update Invoice (K and K Recycling)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Divya</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Just following up to see if you have been able to resolve this.</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Thanks</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#64AD21\">Ken Sweeney</span></b></p>\r\n<p class=\"MsoNormal\"><b><i><span style=\"color:#64AD21\">CFO</span></i></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"color:#1F497D\"><img border=\"0\" width=\"84\" height=\"115\" id=\"Picture_x0020_1\" src=\"cid:image001.jpg@01D46217.79C54BD0\" alt=\"cid:image001.jpg@01CEF466.64084C30\"></span><span style=\"color:#00B050\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#64AD21\">870 McKay Road</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#64AD21\">Pickering, ON L1W 2Y4</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#64AD21\">T: 905 426-8989 ext. 24</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#64AD21\">C: 905 466-8541</span></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#64AD21\">F: 905 426-4927</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\"><a href=\"mailto:ksweeney@kkscrapmetal.com\"><span lang=\"EN-US\" style=\"color:blue\">ksweeney@kkscrapmetal.com</span></a></span><u><span style=\"color:#64AD21\"></span></u></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\"><a href=\"http://www.kkscrapmetal.com\"><span lang=\"EN-US\" style=\"color:blue\">www.kkscrapmetal.com</span></a></span><u><span style=\"color:#64AD21\"></span></u></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b>From:</b> Divya Pal &lt;<span lang=\"EN-CA\"><a href=\"mailto:divya.pal@websan.com\"><span lang=\"EN-US\">divya.pal@websan.com</span></a></span>&gt;\r\n<br>\r\n<b>Sent:</b> October 10, 2018 4:12 PM<br>\r\n<b>To:</b> Danielle Morgan &lt;<span lang=\"EN-CA\"><a href=\"mailto:dmorgan@titantubeinc.com\"><span lang=\"EN-US\">dmorgan@titantubeinc.com</span></a></span>&gt;; Wayne Wang &lt;<span lang=\"EN-CA\"><a href=\"mailto:wwang@titantubeinc.com\"><span lang=\"EN-US\">wwang@titantubeinc.com</span></a></span>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<span lang=\"EN-CA\"><a href=\"mailto:support@websan.com\"><span lang=\"EN-US\">support@websan.com</span></a></span>&gt;; Renee Rouleau &lt;<span lang=\"EN-CA\"><a href=\"mailto:rrouleau@titantubeinc.com\"><span lang=\"EN-US\">rrouleau@titantubeinc.com</span></a></span>&gt;;\r\n Ken Sweeney &lt;<span lang=\"EN-CA\"><a href=\"mailto:ksweeney@kkrecycling.ca\"><span lang=\"EN-US\">ksweeney@kkrecycling.ca</span></a></span>&gt;<br>\r\n<b>Subject:</b> RE: Issue #81863: Update Invoice (K and K Recycling)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Hello, </span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">I am currently in the process of figuring out how to breakdown the taxes portion of the invoice. Is there somewhere in CRM where this tax information is entered? Or a window where you select the specific rate that needs\r\n to be chosen? I am having difficulty finding this field in the backend and it would be easier to see which window/field you would enter that information in CRM.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Alternatively, I can add a custom calculation to the invoice to see the GST dollar amount and QST dollar amount based on the current tax rates however, if invoices are sent to other provinces with different rates it wouldn\u2019t\r\n be accounted for with a custom calculation. If these tax rates are the only ones you are interested in seeing then a custom calculation should suffice.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\"><img border=\"0\" width=\"658\" height=\"269\" id=\"Picture_x0020_2\" src=\"cid:image002.jpg@01D46217.79C54BD0\" alt=\"cid:image002.jpg@01D46212.E9FCA8D0\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Let me know what works.</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\">Thank you, </span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:#212121\">______________________</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span lang=\"EN-CA\" style=\"font-size:16.0pt; color:#212121\">Divya Pal&nbsp;</span></b><span style=\"font-size:12.0pt; color:black\">&nbsp;</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:#212121\">BI Specialist | WebSan Solutions Inc. |&nbsp;</span><span lang=\"EN-CA\"><a href=\"http://www.websan.com/\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">www.websan.com</span></a></span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:black\">Office (416) 499-1235 x 237 | DID: (647) 776-0611&nbsp;</span><span style=\"color:black\">|Fax (416) 499-6889</span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-CA\"><a href=\"mailto:divya.pal@websan.com\"><span style=\"font-size:12.0pt\">divya.pal@websan.com</span></a></span><span lang=\"EN-CA\" style=\"font-size:12.0pt; color:black\"></span></p>\r\n</div>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Danielle Morgan",
+          "Address": "dmorgan@titantubeinc.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Danielle Morgan",
+          "Address": "dmorgan@titantubeinc.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Divya Pal",
+            "Address": "divya.pal@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Ken Sweeney",
+            "Address": "ksweeney@kkrecycling.ca"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Wayne Wang",
+            "Address": "wwang@titantubeinc.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Renee Rouleau",
+            "Address": "rrouleau@titantubeinc.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae0AAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sn\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae0AAA=",
+      "CreatedDateTime": "2018-10-12T14:35:41Z",
+      "LastModifiedDateTime": "2018-10-12T14:35:42Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sn",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:35:41Z",
+      "SentDateTime": "2018-10-12T14:35:38Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BN6PR06MB2786C8748DD739046C91FAE589E20@BN6PR06MB2786.namprd06.prod.outlook.com>",
+      "Subject": "RE: Issue #82460: Smartlist for summary of past EFT batches (DoubleDigit Sales)",
+      "BodyPreview": "Hi Kira,\r\n\r\nThanks for reaching out. I\u2019ll look into creating a SmartList for past EFT batches and get back to you.\r\n\r\nRegards,\r\n______________________\r\nDivya Pal\r\nBI Specialist | WebSan Solutions Inc. | www.websan.com\r\nOffice (416) 499-1235 x 237 | DID: (",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAEKWQTikd0grkzitVO0C-Uw=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9cae0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\nspan.EmailStyle17\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-family:\"Calibri\",sans-serif}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\">Hi Kira, </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Thanks for reaching out. I\u2019ll look into creating a SmartList for past EFT batches and get back to you.\r\n</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Regards, </p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">______________________</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span style=\"font-size:16.0pt; color:#212121\">Divya Pal&nbsp;</span></b><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">&nbsp;</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">BI Specialist | WebSan Solutions Inc. |&nbsp;</span><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\"><a href=\"http://www.websan.com/\"><span style=\"color:black\">www.websan.com</span></a></span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">Office (416) 499-1235 x 237 | DID: (647) 776-0611&nbsp;</span><span lang=\"EN-US\" style=\"color:black\">|Fax (416) 499-6889</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:black\">divya.pal@websan.com</span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Divya Pal",
+          "Address": "divya.pal@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Divya Pal",
+          "Address": "divya.pal@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Kira Hu",
+            "Address": "kira@doubledigit-sales.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caezAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sf\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caezAAA=",
+      "CreatedDateTime": "2018-10-12T14:35:10Z",
+      "LastModifiedDateTime": "2018-10-12T14:35:10Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sf",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:35:10Z",
+      "SentDateTime": "2018-10-12T14:35:01Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<7d97bf8d-0082-45da-80bc-9104668299ab@MX1.WEBSAN.COM>",
+      "Subject": "*COPY* Issue #80815, closed: Requested ship date (Carlisle Wide Plank Flooring)",
+      "BodyPreview": "*===* Email copy generated by issue Email Distribution List.\r\n\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.\r\n\r\nhttps://form.jotformpro.com/7232595827",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAMau0c53JBxFtSS4Wm6Tc_U=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caezAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=utf-8\">\r\n<style type=\"text/css\">\r\n<!--\r\nbody\r\n\t{font-family:Verdana}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n*===* Email copy generated by issue Email Distribution List.<br>\r\n<br>\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.<br>\r\n<br>\r\nhttps://form.jotformpro.com/72325958271967??ticketNumber=80815<br>\r\n<br>\r\nThe following Issue was closed in WebSan Support:<br>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>Issue #:</td>\r\n<td>80815</td>\r\n</tr>\r\n<tr>\r\n<td>Subject:</td>\r\n<td>Requested ship date</td>\r\n</tr>\r\n<tr>\r\n<td>Status:</td>\r\n<td>Closed </td>\r\n</tr>\r\n<tr>\r\n<td>Issue Type:</td>\r\n<td>CRM</td>\r\n</tr>\r\n<tr>\r\n<td>Priority:</td>\r\n<td>Medium</td>\r\n</tr>\r\n<tr>\r\n<td>Severity:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Project:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Organization:</td>\r\n<td>Carlisle Wide Plank Flooring</td>\r\n</tr>\r\n<tr>\r\n<td>Submitted By:</td>\r\n<td>Thomas Jackson on 22-Aug-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Assigned To:</td>\r\n<td>Development Queue on 22-Aug-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Next Action:</td>\r\n<td>Thomas Jackson on 22-Aug-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Closed By: </td>\r\n<td>Thomas Jackson on 12-Oct-2018 </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<br>\r\n<b>Solution:</b>\r\n<hr>\r\nAdded Sales Order Voiding functionality as requested<br>\r\n<br>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        }
+      ],
+      "CcRecipients": [],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caeyAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sc\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caeyAAA=",
+      "CreatedDateTime": "2018-10-12T14:34:03Z",
+      "LastModifiedDateTime": "2018-10-12T14:34:05Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sc",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:34:04Z",
+      "SentDateTime": "2018-10-12T14:33:56Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BN6PR06MB278600FCDB6CFB3803FF67F189E20@BN6PR06MB2786.namprd06.prod.outlook.com>",
+      "Subject": "RE: Issue #81863: Update Invoice (K and K Recycling)",
+      "BodyPreview": "Hi Ken,\r\n\r\nI am waiting for further information on where tax is entered or where you would select a specific tax rate per invoice. A screenshot of the window and the path should be enough. Although, if you\u2019re only looking for GST and QST tax amounts I can",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAKR3tpxNiUavi39hfeNzciI=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caeyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0in;\r\n\tmargin-left:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.msonormal00, li.msonormal00, div.msonormal00\r\n\t{margin-right:0in;\r\n\tmargin-left:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.msochpdefault, li.msochpdefault, div.msochpdefault\r\n\t{margin-right:0in;\r\n\tmargin-left:0in;\r\n\tfont-size:10.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.emailstyle18\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.emailstyle19\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle22\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle23\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle24\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle25\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle26\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle27\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle28\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:#1F497D}\r\nspan.EmailStyle29\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle30\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle31\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle32\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\"><span style=\"\">Hi Ken, </span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">I am waiting for further information on where tax is entered or where you would select a specific tax rate per invoice. A screenshot of the window and the path should be enough. Although, if you\u2019re only looking for GST and\r\n QST tax amounts I can just add a custom calculation to the invoice instead. My only concern with that is if there were a sale using a different tax rate (that is not GST or QST) it wouldn\u2019t be captured on the invoice with a custom calculation.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Just need confirmation on either going the custom calculation route or pulling values from CRM itself.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Thanks, </span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">______________________</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span style=\"font-size:16.0pt; color:#212121\">Divya Pal&nbsp;</span></b><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">&nbsp;</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">BI Specialist | WebSan Solutions Inc. |&nbsp;</span><a href=\"http://www.websan.com/\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">www.websan.com</span></a><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">Office (416) 499-1235 x 237 | DID: (647) 776-0611&nbsp;</span><span lang=\"EN-US\" style=\"color:black\">|Fax (416) 499-6889</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:black\">divya.pal@websan.com</span></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Ken Sweeney &lt;ksweeney@kkrecycling.ca&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 3:30 PM<br>\r\n<b>To:</b> Divya Pal &lt;divya.pal@websan.com&gt;; Danielle Morgan &lt;dmorgan@titantubeinc.com&gt;; Wayne Wang &lt;wwang@titantubeinc.com&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;support@websan.com&gt;; Renee Rouleau &lt;rrouleau@titantubeinc.com&gt;<br>\r\n<b>Subject:</b> RE: Issue #81863: Update Invoice (K and K Recycling)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"\">Divya</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Just following up to see if you have been able to resolve this.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Thanks</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\" style=\"color:#64AD21\">Ken Sweeney</span></b></p>\r\n<p class=\"MsoNormal\"><b><i><span lang=\"EN-US\" style=\"color:#64AD21\">CFO</span></i></b></p>\r\n<p class=\"MsoNormal\"><span style=\"color:#1F497D\"><img border=\"0\" width=\"84\" height=\"115\" id=\"Picture_x0020_1\" src=\"cid:image001.jpg@01D46212.E9FCA8D0\" alt=\"cid:image001.jpg@01CEF466.64084C30\" style=\"width:.875in; height:1.1979in\"></span><span lang=\"EN-US\" style=\"color:#00B050\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#64AD21\">870 McKay Road</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#64AD21\">Pickering, ON L1W 2Y4</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#64AD21\">T: 905 426-8989 ext. 24</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#64AD21\">C: 905 466-8541</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#64AD21\">F: 905 426-4927</span></p>\r\n<p class=\"MsoNormal\"><a href=\"mailto:ksweeney@kkscrapmetal.com\"><span lang=\"EN-US\" style=\"color:blue\">ksweeney@kkscrapmetal.com</span></a><u><span lang=\"EN-US\" style=\"color:#64AD21\"></span></u></p>\r\n<p class=\"MsoNormal\"><a href=\"http://www.kkscrapmetal.com\"><span lang=\"EN-US\" style=\"color:blue\">www.kkscrapmetal.com</span></a><u><span lang=\"EN-US\" style=\"color:#64AD21\"></span></u></p>\r\n</div>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Divya Pal &lt;</span><a href=\"mailto:divya.pal@websan.com\"><span lang=\"EN-US\">divya.pal@websan.com</span></a><span lang=\"EN-US\">&gt;\r\n<br>\r\n<b>Sent:</b> October 10, 2018 4:12 PM<br>\r\n<b>To:</b> Danielle Morgan &lt;</span><a href=\"mailto:dmorgan@titantubeinc.com\"><span lang=\"EN-US\">dmorgan@titantubeinc.com</span></a><span lang=\"EN-US\">&gt;; Wayne Wang &lt;</span><a href=\"mailto:wwang@titantubeinc.com\"><span lang=\"EN-US\">wwang@titantubeinc.com</span></a><span lang=\"EN-US\">&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;</span><a href=\"mailto:support@websan.com\"><span lang=\"EN-US\">support@websan.com</span></a><span lang=\"EN-US\">&gt;; Renee Rouleau &lt;</span><a href=\"mailto:rrouleau@titantubeinc.com\"><span lang=\"EN-US\">rrouleau@titantubeinc.com</span></a><span lang=\"EN-US\">&gt;;\r\n Ken Sweeney &lt;</span><a href=\"mailto:ksweeney@kkrecycling.ca\"><span lang=\"EN-US\">ksweeney@kkrecycling.ca</span></a><span lang=\"EN-US\">&gt;<br>\r\n<b>Subject:</b> RE: Issue #81863: Update Invoice (K and K Recycling)</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"\">Hello, </span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">I am currently in the process of figuring out how to breakdown the taxes portion of the invoice. Is there somewhere in CRM where this tax information is entered? Or a window where you select the specific rate that needs to\r\n be chosen? I am having difficulty finding this field in the backend and it would be easier to see which window/field you would enter that information in CRM.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Alternatively, I can add a custom calculation to the invoice to see the GST dollar amount and QST dollar amount based on the current tax rates however, if invoices are sent to other provinces with different rates it wouldn\u2019t\r\n be accounted for with a custom calculation. If these tax rates are the only ones you are interested in seeing then a custom calculation should suffice.\r\n</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"658\" height=\"269\" id=\"Picture_x0020_2\" src=\"cid:image002.jpg@01D46212.E9FCA8D0\" alt=\"cid:image002.jpg@01D46212.E9FCA8D0\" style=\"width:6.8541in; height:2.802in\"><span style=\"\"></span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Let me know what works.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Thank you, </span></p>\r\n<div>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">______________________</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span style=\"font-size:16.0pt; color:#212121\">Divya Pal&nbsp;</span></b><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">&nbsp;</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:#212121\">BI Specialist | WebSan Solutions Inc. |&nbsp;</span><a href=\"http://www.websan.com/\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">www.websan.com</span></a><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"font-size:12.0pt; color:black\">Office (416) 499-1235 x 237 | DID: (647) 776-0611&nbsp;</span><span lang=\"EN-US\" style=\"color:black\">|Fax (416) 499-6889</span><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><a href=\"mailto:divya.pal@websan.com\"><span style=\"font-size:12.0pt\">divya.pal@websan.com</span></a><span style=\"font-size:12.0pt; color:black\"></span></p>\r\n</div>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Divya Pal",
+          "Address": "divya.pal@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Divya Pal",
+          "Address": "divya.pal@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Ken Sweeney",
+            "Address": "ksweeney@kkrecycling.ca"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Danielle Morgan",
+            "Address": "dmorgan@titantubeinc.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Wayne Wang",
+            "Address": "wwang@titantubeinc.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Renee Rouleau",
+            "Address": "rrouleau@titantubeinc.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caexAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sW\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caexAAA=",
+      "CreatedDateTime": "2018-10-12T14:33:02Z",
+      "LastModifiedDateTime": "2018-10-12T14:33:03Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sW",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:33:02Z",
+      "SentDateTime": "2018-10-12T14:32:58Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BL0PR06MB4242B6604223D176D85D1CE783E20@BL0PR06MB4242.namprd06.prod.outlook.com>",
+      "Subject": "FW: Issue #82465: Missing Error for a corrected Credit Memo (Flower Buyer)",
+      "BodyPreview": "Hi Jeremy,\r\n\r\nCan you please check if the correction to the credit memo is being passed in the API?\r\n\r\nThanks\r\nKatrina\r\n\r\nFrom: Alicia Lovric <alicia@flowerbuyer.com>\r\nSent: October 12, 2018 10:28 AM\r\nTo: WebSan Support <support@websan.com>\r\nCc: Katrina S",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQABlNOuBOxkzSp2nVUTkfs14=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caexAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle18\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.EmailStyle20\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\"><span style=\"\">Hi Jeremy,</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Can you please check if the correction to the credit memo is being passed in the API?<br>\r\n<br>\r\nThanks</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Katrina</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">&nbsp;</span></p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\">\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Alicia Lovric &lt;alicia@flowerbuyer.com&gt;\r\n<br>\r\n<b>Sent:</b> October 12, 2018 10:28 AM<br>\r\n<b>To:</b> WebSan Support &lt;support@websan.com&gt;<br>\r\n<b>Cc:</b> Katrina She &lt;Katrina.She@websan.com&gt;; Daniel Scott &lt;Daniel@flowerbuyer.com&gt;<br>\r\n<b>Subject:</b> Missing Error</span></p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Hi,</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">I was expecting an error message for Credit note # 1531420B that was reversed and reissued for another amount.&nbsp; Corrected credit did not post and I did not receive notification that credit # existed and cannot post.&nbsp;\r\n Is it possible to get this?</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\"><img width=\"1141\" height=\"587\" id=\"Picture_x0020_1\" src=\"cid:image001.png@01D46216.4565A980\" style=\"width:11.8854in; height:6.1145in\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"color:#1F497D\">Thanks,</span><span lang=\"EN-US\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size:10.0pt; color:#525252\">---</span><span lang=\"EN-US\" style=\"color:#525252\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size:10.0pt; color:#525252\">Alicia Lovric | Accounts Receivable |\r\n<a href=\"mailto:alicia@flowerbuyer.com\">alicia@<b><i>flowerbuyer.com</i></b></a></span><i><span lang=\"EN-US\" style=\"font-size:10.0pt; color:red\">\r\n</span></i><span lang=\"EN-US\" style=\"font-size:10.0pt; color:#525252\">| 1-877-625-3243 x 233 | Direct: 905-849-2522</span><span lang=\"EN-US\"></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Katrina She",
+          "Address": "Katrina.She@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Katrina She",
+          "Address": "Katrina.She@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Jeremy Gillard",
+            "Address": "jeremy.gillard@websan.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caewAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sP\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caewAAA=",
+      "CreatedDateTime": "2018-10-12T14:32:11Z",
+      "LastModifiedDateTime": "2018-10-12T14:32:16Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1sP",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:32:15Z",
+      "SentDateTime": "2018-10-12T14:32:03Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BN7PR06MB4083CC19BEA0325DA3FA35E1F9E20@BN7PR06MB4083.namprd06.prod.outlook.com>",
+      "Subject": "RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)",
+      "BodyPreview": "Oz,\r\n\r\nThat\u2019s Great. Thanks for letting me know.\r\n\r\nI am closing this ticket now.\r\n\r\n\r\nThanks,\r\nABHI PATEL  ERP Application Specialist\r\nWebSan Solutions Inc. | D: +1 (647) 776-7955 Ext:222| E: abhi.patel@websan.com\r\n\r\n\r\n\r\n\r\nFrom: Oz Gultekin <ozan@ayrsoni",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAIQcE7fqhk23u64edTWynhM=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caewAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Verdana}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0in;\r\n\tmargin-left:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle18\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle20\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle21\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle22\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle23\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle24\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle25\r\n\t{font-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle27\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-US\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\">Oz,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">That\u2019s Great. Thanks for letting me know.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">I am closing this ticket now.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt\">Thanks,</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt\">ABHI PATEL </span></b>&nbsp;<i>ERP Application Specialist</i></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#767171\">WebSan Solutions Inc. | D:</span></b><span style=\"color:#767171\">&nbsp;&#43;1 (647) 776-7955 Ext:222<b>|</b>\r\n<b>E:</b>&nbsp;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Oz Gultekin &lt;ozan@ayrsonics.com&gt; <br>\r\n<b>Sent:</b> Friday, October 12, 2018 7:58 AM<br>\r\n<b>To:</b> Abhi Patel &lt;abhi.patel@websan.com&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;support@websan.com&gt;; Katrina She &lt;Katrina.She@websan.com&gt;; Scott Mahar &lt;smahar@ayrsonics.com&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Good News! It works!</p>\r\n<p class=\"MsoNormal\">I can view and process orders. </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Oz Gultekin</span></b></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">Production Supervisor</span></i></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">&nbsp;</span></i></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\"><img border=\"0\" width=\"109\" height=\"26\" id=\"_x0000_i1025\" src=\"cid:image001.jpg@01D46216.CC9D2400\" alt=\"Ayrsonics_logo\" style=\"width:1.1354in; height:.2708in\"></span></p>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Canadian Distributor and Fabricator of ezoBord.&nbsp;\r\n<i></i></span></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">825 Trillium Drive, Kitchener ON, N2R 1J9</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Cell: (519) 497-9390</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Email: <a href=\"mailto:ozan@ayrsonics.com\"><span style=\"color:blue\">ozan@ayrsonics.com</span></a></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Web: <a href=\"http://www.ezobord.com/\">\r\n<span style=\"color:blue\">www.ezobord.com</span></a></span></p>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 5:26 PM<br>\r\n<b>To:</b> Oz Gultekin &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;; Scott Mahar &lt;<a href=\"mailto:smahar@ayrsonics.com\">smahar@ayrsonics.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Hi Oz,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">I have added new permission for you user as per Microsoft\u2019s instructions.\r\n</p>\r\n<p class=\"MsoNormal\">Request you to try again.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt\">Thanks,</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt\">ABHI PATEL </span></b>&nbsp;<i>ERP Application Specialist</i></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#767171\">WebSan Solutions Inc. | D:</span></b><span style=\"color:#767171\">&nbsp;&#43;1 (647) 776-7955 Ext:222<b>|</b>\r\n<b>E:</b>&nbsp;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Oz Gultekin &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 11:43 AM<br>\r\n<b>To:</b> Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;; Scott Mahar &lt;<a href=\"mailto:smahar@ayrsonics.com\">smahar@ayrsonics.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">I was able to log in; however, I still can\u2019t perform anything!</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"531\" height=\"268\" id=\"_x0000_i1026\" src=\"cid:image002.png@01D46216.CC9D2400\" style=\"width:5.5312in; height:2.7916in\"></p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"534\" height=\"277\" id=\"_x0000_i1027\" src=\"cid:image003.png@01D46216.CC9D2400\" style=\"width:5.5625in; height:2.8854in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Oz Gultekin</span></b></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">Production Supervisor</span></i></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">&nbsp;</span></i></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\"><img border=\"0\" width=\"109\" height=\"26\" id=\"_x0000_i1028\" src=\"cid:image001.jpg@01D46216.CC9D2400\" alt=\"Ayrsonics_logo\" style=\"width:1.1354in; height:.2708in\"></span></p>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Canadian Distributor and Fabricator of ezoBord.&nbsp;\r\n<i></i></span></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">825 Trillium Drive, Kitchener ON, N2R 1J9</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Cell: (519) 497-9390</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Email: <a href=\"mailto:ozan@ayrsonics.com\"><span style=\"color:blue\">ozan@ayrsonics.com</span></a></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Web: <a href=\"http://www.ezobord.com/\">\r\n<span style=\"color:blue\">www.ezobord.com</span></a></span></p>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Thursday, October 11, 2018 10:04 AM<br>\r\n<b>To:</b> Oz Gultekin &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;; Scott Mahar &lt;<a href=\"mailto:smahar@ayrsonics.com\">smahar@ayrsonics.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Hi Oz,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Microsoft has requested to try to login using below link in incognito mode (ctl&#43;shift&#43;N).</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><a href=\"https://businesscentral.dynamics.com/ED951715-C240-416C-9819-CAA1B3444C1C\">https://businesscentral.dynamics.com/ED951715-C240-416C-9819-CAA1B3444C1C</a></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Please let me know if you were able to login and perform transactions.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt\">Thanks,</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt\">ABHI PATEL </span></b>&nbsp;<i>ERP Application Specialist</i></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#767171\">WebSan Solutions Inc. | D:</span></b><span style=\"color:#767171\">&nbsp;&#43;1 (647) 776-7955 Ext:222<b>|</b>\r\n<b>E:</b>&nbsp;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Oz Gultekin &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Tuesday, October 09, 2018 4:18 PM<br>\r\n<b>To:</b> Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;; Scott Mahar &lt;<a href=\"mailto:smahar@ayrsonics.com\">smahar@ayrsonics.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Hi Abhi,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">The issue seems to be still present. </p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Here are the errors after trying the same commands as before!</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"695\" height=\"367\" id=\"_x0000_i1029\" src=\"cid:image004.png@01D46216.CC9D2400\" style=\"width:7.2395in; height:3.8229in\"></p>\r\n<p class=\"MsoNormal\"><img border=\"0\" width=\"712\" height=\"397\" id=\"Picture_x0020_3\" src=\"cid:image005.png@01D46216.CC9D2400\" style=\"width:7.4166in; height:4.1354in\"></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Oz Gultekin</span></b></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">Production Supervisor</span></i></p>\r\n<p class=\"MsoNormal\"><i><span lang=\"EN-CA\" style=\"\">&nbsp;</span></i></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\"><img border=\"0\" width=\"109\" height=\"26\" id=\"Picture_x0020_2\" src=\"cid:image001.jpg@01D46216.CC9D2400\" alt=\"Ayrsonics_logo\" style=\"width:1.1354in; height:.2708in\"></span></p>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-CA\" style=\"\">Canadian Distributor and Fabricator of ezoBord.&nbsp;\r\n<i></i></span></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">825 Trillium Drive, Kitchener ON, N2R 1J9</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Cell: (519) 497-9390</span></p>\r\n<p class=\"MsoNormal\"><span style=\"\">Email: <a href=\"mailto:ozan@ayrsonics.com\"><span style=\"color:blue\">ozan@ayrsonics.com</span></a></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-CA\" style=\"\">Web: <a href=\"http://www.ezobord.com/\">\r\n<span style=\"color:blue\">www.ezobord.com</span></a></span></p>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Abhi Patel &lt;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a>&gt;\r\n<br>\r\n<b>Sent:</b> Tuesday, October 9, 2018 2:13 PM<br>\r\n<b>To:</b> Oz Gultekin &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Hi Oz,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">We have updated required permission sets for you in Business Central.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Request you to check and let us know if you still run into same errors.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt\">Thanks,</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt\">ABHI PATEL </span></b>&nbsp;<i>ERP Application Specialist</i></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#767171\">WebSan Solutions Inc. | D:</span></b><span style=\"color:#767171\">&nbsp;&#43;1 (647) 776-7955 Ext:222<b>|</b>\r\n<b>E:</b>&nbsp;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div>\r\n<div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\">\r\n<p class=\"MsoNormal\"><b>From:</b> Abhi Patel <br>\r\n<b>Sent:</b> Tuesday, October 09, 2018 12:35 PM<br>\r\n<b>To:</b> 'ozan@ayrsonics.com' &lt;<a href=\"mailto:ozan@ayrsonics.com\">ozan@ayrsonics.com</a>&gt;<br>\r\n<b>Cc:</b> WebSan Support &lt;<a href=\"mailto:support@websan.com\">support@websan.com</a>&gt;; Katrina She &lt;<a href=\"mailto:Katrina.She@websan.com\">Katrina.She@websan.com</a>&gt;<br>\r\n<b>Subject:</b> RE: Issue #82318: Permission Issue - URGENT (Ayrsonics)</p>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">Hi Oz,</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">We are looking at the issue and will get back to you shortly.</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt\">Thanks,</span></p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt\">ABHI PATEL </span></b>&nbsp;<i>ERP Application Specialist</i></p>\r\n<p class=\"MsoNormal\"><b><span style=\"color:#767171\">WebSan Solutions Inc. | D:</span></b><span style=\"color:#767171\">&nbsp;&#43;1 (647) 776-7955 Ext:222<b>|</b>\r\n<b>E:</b>&nbsp;<a href=\"mailto:abhi.patel@websan.com\">abhi.patel@websan.com</a></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\">\r\n<hr size=\"2\" width=\"100%\" align=\"center\">\r\n</div>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:12.0pt\"><span style=\"font-size:10.0pt; font-family:&quot;Verdana&quot;,sans-serif; color:black; background:#EEEEEE\">Good Morning,</span><span style=\"font-size:10.0pt; font-family:&quot;Verdana&quot;,sans-serif; color:black\"><br>\r\n<br>\r\n<span style=\"background:#EEEEEE\">The Business Central has been updated for us as of this morning; however, we are running into some major issues.</span><br>\r\n<b>Permissions</b><span style=\"background:#EEEEEE\">&nbsp;have been affected for&nbsp;</span><b>several users</b><span style=\"background:#EEEEEE\">.</span><br>\r\n<br>\r\n<br>\r\n<span style=\"background:#EEEEEE\">See below for attached screenshots of some of the errors we have been getting!</span><br>\r\n<br>\r\n<span style=\"background:#EEEEEE\">We will need this looked after as soon as possible, please!</span><br>\r\n<br>\r\n<span style=\"background:#EEEEEE\">Thank You!</span><br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<b>Oz Gultekin</b><br>\r\n<span style=\"background:#EEEEEE\">Production Supervisor</span></span></p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Abhi Patel",
+          "Address": "abhi.patel@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Abhi Patel",
+          "Address": "abhi.patel@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Oz Gultekin",
+            "Address": "ozan@ayrsonics.com"
+          }
+        }
+      ],
+      "CcRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Katrina She",
+            "Address": "Katrina.She@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Scott Mahar",
+            "Address": "smahar@ayrsonics.com"
+          }
+        }
+      ],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    },
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caevAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1rx\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caevAAA=",
+      "CreatedDateTime": "2018-10-12T14:30:13Z",
+      "LastModifiedDateTime": "2018-10-12T14:30:14Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAA9a1rx",
+      "Categories": [],
+      "ReceivedDateTime": "2018-10-12T14:30:14Z",
+      "SentDateTime": "2018-10-12T14:30:02Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<5f52aa27-dc00-4a3b-aa9c-2b14a20b1819@MX1.WEBSAN.COM>",
+      "Subject": "*COPY* Issue #82377, closed: Integration issue (Distincttech)",
+      "BodyPreview": "*===* Email copy generated by issue Email Distribution List.\r\n\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.\r\n\r\nhttps://form.jotformpro.com/7232595827",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAKqfMFyz6N9AunVFMSNSbq4=",
+      "IsDeliveryReceiptRequested": null,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAA9caevAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Other",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=utf-8\">\r\n<style type=\"text/css\">\r\n<!--\r\nbody\r\n\t{font-family:Verdana}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n*===* Email copy generated by issue Email Distribution List.<br>\r\n<br>\r\nThank you for choosing WebSan! Please take a moment to complete our survey by following the link below as we continue to improve to serve you better.<br>\r\n<br>\r\nhttps://form.jotformpro.com/72325958271967??ticketNumber=82377<br>\r\n<br>\r\nThe following Issue was closed in WebSan Support:<br>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>Issue #:</td>\r\n<td>82377</td>\r\n</tr>\r\n<tr>\r\n<td>Subject:</td>\r\n<td>Integration issue</td>\r\n</tr>\r\n<tr>\r\n<td>Status:</td>\r\n<td>Closed Under Review</td>\r\n</tr>\r\n<tr>\r\n<td>Issue Type:</td>\r\n<td>GP</td>\r\n</tr>\r\n<tr>\r\n<td>Priority:</td>\r\n<td>Critical</td>\r\n</tr>\r\n<tr>\r\n<td>Severity:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Project:</td>\r\n<td></td>\r\n</tr>\r\n<tr>\r\n<td>Organization:</td>\r\n<td>Distincttech</td>\r\n</tr>\r\n<tr>\r\n<td>Submitted By:</td>\r\n<td>Soheil Mosavi on 10-Oct-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Assigned To:</td>\r\n<td>Enterprise Team Queue on 10-Oct-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Next Action:</td>\r\n<td>Thomas Jackson on 11-Oct-2018 </td>\r\n</tr>\r\n<tr>\r\n<td>Closed By: </td>\r\n<td>Enterprise Team Queue on 12-Oct-2018 </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<br>\r\n<b>Solution:</b>\r\n<hr>\r\nThe blockage/stoppage was caused by a single record in CRM that was not entered correctly. The account is the first integration to go and because the account number is not set (assuming because its locked down as it likely gets generated<br>\r\nfrom some process or comes from GP) it generated a record that did not have the keys set. This caused the CRM Sync tool to break and all subsequent integrations to fail.<br>\r\n<br>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "WebSan Support",
+          "Address": "support@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "WebSan Support",
+            "Address": "support@websan.com"
+          }
+        }
+      ],
+      "CcRecipients": [],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    }
+  ],
+  "@odata.nextLink": "https://outlook.office.com/api/v2.0/me/messages?%24filter=ParentFolderId+eq+%27AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA%3d%27&%24top=10&%24skip=10"
+}

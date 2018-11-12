@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="https://websansolutions.sharepoint.com/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://websansolutions.sharepoint.com/_api/Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')</id>
+  <category term="SP.Folder" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <link rel="edit" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Activities" type="application/atom+xml;type=feed" title="Activities" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/Activities" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Files" type="application/atom+xml;type=feed" title="Files" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/Files" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/ListItemAllFields" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentFolder" type="application/atom+xml;type=entry" title="ParentFolder" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/ParentFolder" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/Properties" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/StorageMetrics" type="application/atom+xml;type=entry" title="StorageMetrics" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/StorageMetrics" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folders" type="application/atom+xml;type=feed" title="Folders" href="Web/GetFolderByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01')/Folders" />
+  <title />
+  <updated>2018-08-03T15:32:30Z</updated>
+  <author>
+    <name />
+  </author>
+  <content type="application/xml">
+    <m:properties>
+      <d:Exists m:type="Edm.Boolean">true</d:Exists>
+      <d:IsWOPIEnabled m:type="Edm.Boolean">false</d:IsWOPIEnabled>
+      <d:ItemCount m:type="Edm.Int32">0</d:ItemCount>
+      <d:Name>Test01</d:Name>
+      <d:ProgID m:null="true" />
+      <d:ServerRelativeUrl>/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01</d:ServerRelativeUrl>
+      <d:TimeCreated m:type="Edm.DateTime">2018-08-03T15:32:31Z</d:TimeCreated>
+      <d:TimeLastModified m:type="Edm.DateTime">2018-08-03T15:32:31Z</d:TimeLastModified>
+      <d:UniqueId m:type="Edm.Guid">f690ae1c-edd2-43cf-a465-8057306e92a3</d:UniqueId>
+      <d:WelcomePage></d:WelcomePage>
+    </m:properties>
+  </content>
+</entry>

@@ -1,0 +1,30 @@
+{
+  "@odata.context": "https://websansolutionsqa.api.crm3.dynamics.com/api/data/v9.0/$metadata#new_autonumbers",
+  "value": [
+    {
+      "@odata.etag": "W/\"4605711\"",
+      "_owningbusinessunit_value": "4c203946-72c4-e711-a982-000d3af43b56",
+      "statecode": 0,
+      "statuscode": 1,
+      "_createdby_value": "253cb98e-b7c4-e711-a97e-000d3af4604d",
+      "new_autonumberid": "90d0b262-31a2-e811-a96c-000d3af475a9",
+      "new_casenumber": 10000,
+      "_ownerid_value": "253cb98e-b7c4-e711-a97e-000d3af4604d",
+      "new_caseprefix": "Issue #:",
+      "modifiedon": "2018-08-17T15:22:53Z",
+      "new_caseincrementby": 1,
+      "_owninguser_value": "253cb98e-b7c4-e711-a97e-000d3af4604d",
+      "_modifiedby_value": "253cb98e-b7c4-e711-a97e-000d3af4604d",
+      "versionnumber": 4605711,
+      "new_name": "Defaults",
+      "createdon": "2018-08-17T15:22:53Z",
+      "_createdonbehalfby_value": null,
+      "overriddencreatedon": null,
+      "timezoneruleversionnumber": null,
+      "_modifiedonbehalfby_value": null,
+      "utcconversiontimezonecode": null,
+      "_owningteam_value": null,
+      "importsequencenumber": null
+    }
+  ]
+}

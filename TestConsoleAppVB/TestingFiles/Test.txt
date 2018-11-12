@@ -1,0 +1,11 @@
+Skip Line
+Header01|Header02|Header03|Header04|Header05|Extra|
+*skipToKeyWord* 001.....
+*skipToKeyWord* 002.....
+L11|L12|L13|L14|L15|
+*lineIndicator*L21|L22|L23|L24|L25|
+L31|L32|L33|L34|L35|
+L41|L42|L43|L44|L45|
+*lineIndicator*L51|L52|L53|L54|L55|
+L61|L62|L63|L64|L65|
+LastLine|L62|L63|L64|L65|

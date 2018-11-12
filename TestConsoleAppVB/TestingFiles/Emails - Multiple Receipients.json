@@ -1,0 +1,69 @@
+{
+  "@odata.context": "https://outlook.office.com/api/v2.0/$metadata#Me/Messages",
+  "value": [
+    {
+      "@odata.id": "https://outlook.office.com/api/v2.0/Users('f1d06998-01cb-4d14-a635-bf7a2b4c5c36@8c6f05f8-f0cc-491f-b66f-50a8ba2d6ea0')/Messages('AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAAzSjUSAAA=')",
+      "@odata.etag": "W/\"CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAAzROMP\"",
+      "Id": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID-YICTJ_4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAAzSjUSAAA=",
+      "CreatedDateTime": "2018-09-26T18:10:49Z",
+      "LastModifiedDateTime": "2018-09-26T18:10:50Z",
+      "ChangeKey": "CQAAABYAAABWzZt36KueQ5j6y8sZKELoAAAzROMP",
+      "Categories": [],
+      "ReceivedDateTime": "2018-09-26T18:10:50Z",
+      "SentDateTime": "2018-09-26T18:10:49Z",
+      "HasAttachments": false,
+      "InternetMessageId": "<BYAPR06MB4053DD7338AB7F0464ECF2D7E9150@BYAPR06MB4053.namprd06.prod.outlook.com>",
+      "Subject": "[TEST] Multiple receipants",
+      "BodyPreview": "Thanks,\r\n______________________\r\nAndrew Huang\r\n\r\nApplication Developer | WebSan Solutions Inc. | www.websan.com\r\nOffice (416) 499-1235x209 | Fax (416) 499-6889\r\nandrew.huang@websan.com\r\n\r\nGold Certified Microsoft Enterprise Resource Planning Partner",
+      "Importance": "Normal",
+      "ParentFolderId": "AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAuAAAAAAA4iPID-YICTJ_4QMMkIZsCAQBWzZt36KueQ5j6y8sZKELoAAAAAAEMAAA=",
+      "ConversationId": "AAQkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQAQAA1TlxYErEEKsN4G6C3ydhA=",
+      "IsDeliveryReceiptRequested": false,
+      "IsReadReceiptRequested": false,
+      "IsRead": false,
+      "IsDraft": false,
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkADU0ZDIzY2NiLTcyZjgtNDRlYy1hYzE1LWU5ZjQ0NjY1YTdlNQBGAAAAAAA4iPID%2FYICTJ%2B4QMMkIZsCBwBWzZt36KueQ5j6y8sZKELoAAAAAAEMAABWzZt36KueQ5j6y8sZKELoAAAzSjUSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "InferenceClassification": "Focused",
+      "Body": {
+        "ContentType": "HTML",
+        "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:DengXian}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\nspan.EmailStyle17\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-family:\"Calibri\",sans-serif}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-CA\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\">Thanks,</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">______________________</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><span lang=\"EN-US\" style=\"font-size:16.0pt; color:black\">Andrew Huang</span></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:black\">&nbsp;&nbsp;</span><span lang=\"EN-US\" style=\"color:#212121\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:#212121\">Application Developer | WebSan Solutions Inc. |\r\n</span><span lang=\"EN-US\" style=\"color:black\"><a href=\"http://www.websan.com/\"><span style=\"color:black\">www.websan.com</span></a></span><span lang=\"EN-US\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\" style=\"color:black\">Office (416) 499-1235x</span><b><span lang=\"EN-US\">209</span></b><span lang=\"EN-US\" style=\"color:black\"> | Fax (416) 499-6889</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><u><span lang=\"EN-US\" style=\"color:#0563C1\"><a href=\"mailto:andrew.huang@websan.com\"><span style=\"color:#0563C1\">andrew.huang@websan.com</span></a></span></u><span lang=\"EN-US\" style=\"color:black\"></span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><span lang=\"EN-US\">&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">Gold Certified Microsoft Enterprise Resource Planning Partner</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">2018 Branham300 Top 250 list – Canada’s Top ICT Companies</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">WINNER - 2018 Microsoft Modern Marketing Innovation Award Winner</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">WINNER - 2017 Microsoft Modern Marketing Innovation Award Winner</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">WINNER - 2017 Canada’s 50 Best Managed IT Companies</span></i></b></p>\r\n<p class=\"MsoNormal\" style=\"background:white\"><b><i><span lang=\"EN-US\">2017 Profit 500 Member</span></i></b></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n</div>\r\n</body>\r\n</html>\r\n"
+      },
+      "Sender": {
+        "EmailAddress": {
+          "Name": "Andrew Huang",
+          "Address": "andrew.huang@websan.com"
+        }
+      },
+      "From": {
+        "EmailAddress": {
+          "Name": "Andrew Huang",
+          "Address": "andrew.huang@websan.com"
+        }
+      },
+      "ToRecipients": [
+        {
+          "EmailAddress": {
+            "Name": "Ticketing System",
+            "Address": "ticketing@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "Andrew Huang",
+            "Address": "andrew.huang@websan.com"
+          }
+        },
+        {
+          "EmailAddress": {
+            "Name": "andrewhuang@hotmail.com",
+            "Address": "andrewhuang@hotmail.com"
+          }
+        }
+      ],
+      "CcRecipients": [],
+      "BccRecipients": [],
+      "ReplyTo": [],
+      "Flag": { "FlagStatus": "NotFlagged" }
+    }
+  ]
+}

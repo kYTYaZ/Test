@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://websansolutions.sharepoint.com/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>a667eebf-42b3-4499-832f-93d37e46f619</id>
+  <title />
+  <updated>2018-08-03T16:31:49Z</updated>
+  <entry>
+    <id>https://websansolutions.sharepoint.com/_api/Web/GetFileByServerRelativePath(decodedurl='/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How to Customize CRM 2016 version 1.3 WIP.PDF')</id>
+    <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/Author" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/CheckedOutByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/EffectiveInformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/InformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/ListItemAllFields" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/LockedByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/Properties" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/VersionEvents" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How%20to%20Customize%20CRM%202016%20version%201.3%20WIP.PDF')/Versions" />
+    <title />
+    <updated>2018-08-03T16:31:49Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:CheckInComment></d:CheckInComment>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{54936766-0877-4E0D-A106-0893869206A6},2,2</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{54936766-0877-4E0D-A106-0893869206A6},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">1100162</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUri m:null="true" />
+        <d:LinkingUrl></d:LinkingUrl>
+        <d:MajorVersion m:type="Edm.Int32">1</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>How to Customize CRM 2016 version 1.3 WIP.PDF</d:Name>
+        <d:ServerRelativeUrl>/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/How to Customize CRM 2016 version 1.3 WIP.PDF</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-08-03T16:31:42Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-08-03T16:31:43Z</d:TimeLastModified>
+        <d:Title m:null="true" />
+        <d:UIVersion m:type="Edm.Int32">512</d:UIVersion>
+        <d:UIVersionLabel>1.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">54936766-0877-4e0d-a106-0893869206a6</d:UniqueId>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://websansolutions.sharepoint.com/_api/Web/GetFileByServerRelativePath(decodedurl='/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')</id>
+    <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/Author" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/CheckedOutByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/EffectiveInformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/InformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/ListItemAllFields" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/LockedByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/Properties" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/VersionEvents" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png')/Versions" />
+    <title />
+    <updated>2018-08-03T16:31:49Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:CheckInComment></d:CheckInComment>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{A38B15DB-38E4-4C32-A76C-1924FDA0EFAF},2,3</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{A38B15DB-38E4-4C32-A76C-1924FDA0EFAF},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">92609</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUri m:null="true" />
+        <d:LinkingUrl></d:LinkingUrl>
+        <d:MajorVersion m:type="Edm.Int32">1</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>crm-v8-programmabilityscenarios.png</d:Name>
+        <d:ServerRelativeUrl>/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/crm-v8-programmabilityscenarios.png</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-08-03T16:31:27Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-08-03T16:31:29Z</d:TimeLastModified>
+        <d:Title m:null="true" />
+        <d:UIVersion m:type="Edm.Int32">512</d:UIVersion>
+        <d:UIVersionLabel>1.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">a38b15db-38e4-4c32-a76c-1924fda0efaf</d:UniqueId>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://websansolutions.sharepoint.com/_api/Web/GetFileByServerRelativePath(decodedurl='/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')</id>
+    <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/Author" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/CheckedOutByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/EffectiveInformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/InformationRightsManagementSettings" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/ListItemAllFields" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/LockedByUser" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/Properties" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/VersionEvents" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/account/WebSan%20Solutions%20Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg')/Versions" />
+    <title />
+    <updated>2018-08-03T16:31:49Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:CheckInComment></d:CheckInComment>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{20002A74-3694-4ADE-8B53-FB9497FCFB22},2,3</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{20002A74-3694-4ADE-8B53-FB9497FCFB22},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">9783</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUri m:null="true" />
+        <d:LinkingUrl></d:LinkingUrl>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>Websan.jpg</d:Name>
+        <d:ServerRelativeUrl>/account/WebSan Solutions Inc-_01923B16C741E811813C480FCFF407A1/SPTesting/Test01/Websan.jpg</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-08-03T15:47:36Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-08-03T15:55:55Z</d:TimeLastModified>
+        <d:Title m:null="true" />
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">20002a74-3694-4ade-8b53-fb9497fcfb22</d:UniqueId>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

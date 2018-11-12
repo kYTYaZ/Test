@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "ErrorFolderExists",
+    "message": "A folder with the specified name already exists., Could not create folder Test001."
+  }
+}

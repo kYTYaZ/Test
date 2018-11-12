@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:intf="http://webservice" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://rpc.xml.coldfusion" xmlns:impl="http://webservice" targetNamespace="http://webservice" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://webservice">
+      <xsd:import namespace="http://rpc.xml.coldfusion" />
+      <xsd:element name="getVendors">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="inReadDate" type="xsd:dateTime" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getVendorsResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="getVendorsReturn" type="tns1:DocumentQueryBean" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="fault" type="tns1:CFCInvocationException" />
+      <xsd:element name="getPurchaseOrders">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="inReadDate" type="xsd:dateTime" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getPurchaseOrdersResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="getPurchaseOrdersReturn" type="tns1:DocumentQueryBean" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getSalesOrders">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="inReadDate" type="xsd:dateTime" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getSalesOrdersResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="getSalesOrdersReturn" type="tns1:DocumentQueryBean" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getCustomers">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="inReadDate" type="xsd:dateTime" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getCustomersResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="getCustomersReturn" type="tns1:DocumentQueryBean" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://rpc.xml.coldfusion">
+      <xsd:complexType name="ArrayOf_xsd_string">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ArrayOf_xsd_anyType">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="xsd:anyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ArrayOfArrayOf_xsd_anyType">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns1:ArrayOf_xsd_anyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="DocumentQueryBean">
+        <xsd:sequence>
+          <xsd:element name="columnList" nillable="true" type="tns1:ArrayOf_xsd_string" />
+          <xsd:element name="data" nillable="true" type="tns1:ArrayOfArrayOf_xsd_anyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CFCInvocationException">
+        <xsd:sequence />
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="getCustomersRequest">
+    <wsdl:part name="parameters" element="impl:getCustomers" />
+  </wsdl:message>
+  <wsdl:message name="getVendorsResponse">
+    <wsdl:part name="parameters" element="impl:getVendorsResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSalesOrdersResponse">
+    <wsdl:part name="parameters" element="impl:getSalesOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="CFCInvocationException">
+    <wsdl:part name="fault" element="impl:fault" />
+  </wsdl:message>
+  <wsdl:message name="getPurchaseOrdersResponse">
+    <wsdl:part name="parameters" element="impl:getPurchaseOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSalesOrdersRequest">
+    <wsdl:part name="parameters" element="impl:getSalesOrders" />
+  </wsdl:message>
+  <wsdl:message name="getCustomersResponse">
+    <wsdl:part name="parameters" element="impl:getCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPurchaseOrdersRequest">
+    <wsdl:part name="parameters" element="impl:getPurchaseOrders" />
+  </wsdl:message>
+  <wsdl:message name="getVendorsRequest">
+    <wsdl:part name="parameters" element="impl:getVendors" />
+  </wsdl:message>
+  <wsdl:portType name="Soap">
+    <wsdl:operation name="getVendors">
+      <wsdl:input name="getVendorsRequest" message="impl:getVendorsRequest" />
+      <wsdl:output name="getVendorsResponse" message="impl:getVendorsResponse" />
+      <wsdl:fault name="CFCInvocationException" message="impl:CFCInvocationException" />
+    </wsdl:operation>
+    <wsdl:operation name="getPurchaseOrders">
+      <wsdl:input name="getPurchaseOrdersRequest" message="impl:getPurchaseOrdersRequest" />
+      <wsdl:output name="getPurchaseOrdersResponse" message="impl:getPurchaseOrdersResponse" />
+      <wsdl:fault name="CFCInvocationException" message="impl:CFCInvocationException" />
+    </wsdl:operation>
+    <wsdl:operation name="getSalesOrders">
+      <wsdl:input name="getSalesOrdersRequest" message="impl:getSalesOrdersRequest" />
+      <wsdl:output name="getSalesOrdersResponse" message="impl:getSalesOrdersResponse" />
+      <wsdl:fault name="CFCInvocationException" message="impl:CFCInvocationException" />
+    </wsdl:operation>
+    <wsdl:operation name="getCustomers">
+      <wsdl:input name="getCustomersRequest" message="impl:getCustomersRequest" />
+      <wsdl:output name="getCustomersResponse" message="impl:getCustomersResponse" />
+      <wsdl:fault name="CFCInvocationException" message="impl:CFCInvocationException" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="soap.cfcSoapBinding" type="impl:Soap">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getVendors">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getVendorsRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getVendorsResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="CFCInvocationException">
+        <wsdlsoap:fault use="literal" name="CFCInvocationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getPurchaseOrders">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getPurchaseOrdersRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getPurchaseOrdersResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="CFCInvocationException">
+        <wsdlsoap:fault use="literal" name="CFCInvocationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getSalesOrders">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getSalesOrdersRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getSalesOrdersResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="CFCInvocationException">
+        <wsdlsoap:fault use="literal" name="CFCInvocationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getCustomers">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getCustomersRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getCustomersResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="CFCInvocationException">
+        <wsdlsoap:fault use="literal" name="CFCInvocationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SoapService">
+    <wsdl:port name="soap.cfc" binding="impl:soap.cfcSoapBinding">
+      <wsdlsoap:address location="http://furnituremedic.na.smcanada.ca/webservice/soap.cfc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
